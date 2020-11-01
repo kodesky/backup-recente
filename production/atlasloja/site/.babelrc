@@ -1,0 +1,33 @@
+{
+  "presets": ["next/babel"],
+  "plugins": [
+    [
+      "babel-plugin-root-import",
+      {
+        "paths": [
+          {
+            "rootPathSuffix": "./src/",
+            "rootPathPrefix": "~/"
+          },
+          {
+            "rootPathSuffix": "./src/styles",
+            "rootPathPrefix": "#/"
+          },
+          {
+            "rootPathSuffix": "./src/assets",
+            "rootPathPrefix": "!/"
+          },
+          {
+            "rootPathSuffix": "./src/components",
+            "rootPathPrefix": "*/"
+          }
+        ]
+      }
+    ]
+  ],
+  "env": {
+    "production": {
+      "plugins": ["babel-plugin-root-import"]
+    }
+  }
+}

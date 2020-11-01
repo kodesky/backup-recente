@@ -1,0 +1,33 @@
+{
+  "menu": {
+    "register": "New here?",
+    "login": "Log in",
+    "welcome": "Welcome, {{username}}"
+  },
+  "login": {
+    "welcome": "Welcome, enter your username",
+    "enterPassword": "Hi, {{username}}, enter your password",
+    "usernamePlaceholder": "My username...",
+    "passwordPlaceholder": "My password...",
+    "forgot": "Forgot your password?",
+    "register": "Don't have an account yet? click here"
+  },
+  "forgotPassword": {
+    "welcome": "Forgot your password?",
+    "usernamePlaceholder": "Enter your user",
+    "success": "All ready!",
+    "email": "A new password has been sent to your email"
+  },
+  "register": {
+    "welcome": "Welcome, what is your first and last name?",
+    "enterUsername": "{{firstName}}, create a username:",
+    "enterPassword": "Fantastic! Now create a password:",
+    "enterBirthDate": "Good! What is your date of birth?",
+    "enterEmail": "Perfect! What is your email?",
+    "enterAddress": "Almost there! Enter your address:",
+    "enterPostalCode": "Postal Code:",
+    "enterAffiliateCode": "Affiliation code:",
+    "acceptTerms": "Read and accept the terms and conditions.",
+    "success": "Registration completed successfully!"
+  }
+}

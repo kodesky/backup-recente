@@ -1,0 +1,33 @@
+{
+  "menu": {
+    "register": "Novo cliente?",
+    "login": "Entrar",
+    "welcome": "Bem-vindo(a), {{username}}"
+  },
+  "login": {
+    "welcome": "Bem-vindo(a), digite seu nome de utilizador",
+    "enterPassword": "Olá, {{username}}, digite sua senha",
+    "usernamePlaceholder": "Meu utilizador...",
+    "passwordPlaceholder": "Minha senha...",
+    "forgot": "Esqueceu sua senha?",
+    "register": "Ainda não possui uma conta? Clique aqui"
+  },
+  "forgotPassword": {
+    "welcome": "Esqueceu sua senha?",
+    "usernamePlaceholder": "Informe seu usuário",
+    "success": "Tudo pronto!",
+    "email": "Uma nova senha foi enviada para seu e-mail"
+  },
+  "register": {
+    "welcome": "Bem-vindo(a), qual é o seu primeiro e último nome?",
+    "enterUsername": "{{firstName}}, crie um nome de utilizador:",
+    "enterPassword": "Fantástico! Agora crie uma senha:",
+    "enterBirthDate": "Boa! Qual é a sua data de nascimento?",
+    "enterEmail": "Perfeito! Qual é o seu email?",
+    "enterAddress": "Quase lá! Digite a sua morada:",
+    "enterPostalCode": "Código postal:",
+    "enterAffiliateCode": "Código de afiliação:",
+    "acceptTerms": "Leia e aceite os termos e condições.",
+    "success": "Registo concluído com sucesso!"
+  }
+}

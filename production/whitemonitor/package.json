@@ -1,0 +1,9 @@
+{
+  "name": "whitemonitor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "node-ssh": "^11.1.1"
+  }
+}
